@@ -1,0 +1,15 @@
+{
+    "workshop": {
+        "title": "Virtual Box Setup and Image Donwload",
+        "description": "This guide provides an example of installing and configuring a virtual box image.",
+        "theme": "ttc",
+        "labs": [
+            {
+                "number": "0",
+                "filename": "README.md",
+                "title": "README First",
+                "description": "Step-by-step instructions"
+            }
+        ]
+    }
+}
