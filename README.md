@@ -1,5 +1,7 @@
 # Virtual Box Client Installation
 
+- The Labguides are best viewed using the Workshop's [GitHub Pages Website URL](https://pcdavies.github.io/)
+
 As an alternative to installing Eclipse, Brackets and Git on your laptop, you can follow these steps to download a Virtual Box image that will contain all those products pre-integrated together.
 
 ### Hardware Requirements
